@@ -15,7 +15,8 @@ bucket_domain = ['', '', '']
 - access_key是AK
 - secret_key是SK
 - bucket_key是空间名称（数组）
-- bucket_domain空间的域名（最后是七牛给的那个）
+- bucket_domain空间的域名（最好是七牛给的那个）
+- bucket_key和bucket_domain数组的大小要一致（一一对应）
 
 >>支持多空间
 
